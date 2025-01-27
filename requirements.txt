@@ -1,0 +1,4 @@
+cryptography==41.0.3
+PyQt5==5.15.9
+PyQt5-sip==12.12.2
+PyQt5-stubs==5.15.9
